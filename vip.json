@@ -1,1 +1,5 @@
-p
+{
+  "role": "vip",
+  "username": "viptes",
+  "password": "admin"
+}
